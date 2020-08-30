@@ -1,0 +1,43 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "expo": "~38.0.8",
+    "expo-status-bar": "^1.0.2",
+    "font-awesome": "^4.7.0",
+    "moment": "^2.27.0",
+    "react": "~16.11.0",
+    "react-dom": "~16.11.0",
+    "react-google-calendar-api": "^1.2.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+    "react-native-web": "~0.11.7",
+    "react-redux": "^7.2.1"
+  },
+  "devDependencies": {
+    "@ant-design/icons": "latest",
+    "@babel/core": "^7.8.6",
+    "antd": "^4.6.1",
+    "babel-preset-expo": "~8.1.0",
+    "mdbreact": "^4.9.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-native-calendar-picker": "latest",
+    "react-native-calendars": "^1.339.0",
+    "react-native-gesture-handler": "^1.7.0",
+    "react-native-gradient-header": "^0.2.1",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-parallax-header": "^1.1.4",
+    "react-native-web": "~0.11.7",
+    "react-navigation": "^4.4.0",
+    "react-scripts": "^3.0.1",
+    "recyclerlistview": "^3.0.0"
+  },
+  "private": true
+}
